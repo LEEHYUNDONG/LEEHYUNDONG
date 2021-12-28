@@ -13,6 +13,8 @@
 - ⚡ Fun fact: I love to work out and to climb a mountain
 <!-- - 😄 Pronouns: ... -->
 
+---
+
 ## 📓 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
