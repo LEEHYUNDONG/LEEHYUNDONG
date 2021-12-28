@@ -13,6 +13,7 @@
 - ⚡ Fun fact: I love to work out and climb a mountain
 <!-- - 😄 Pronouns: ... -->
 
+***
 
 ### 📓 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -24,6 +25,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 
+***
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEEHYUNDONG&show_icons=true&theme=dracula&repo=github-readme-stats)
 ](https://github.com/anuraghazra/github-readme-stats)
 
