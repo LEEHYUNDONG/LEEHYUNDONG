@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
 - 📫 How to reach me: [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://velog.io/@easttwave) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:easttwave@gmail.com)
-- ⚡ Fun fact: I love to work out and to climb a mountain
+- ⚡ Fun fact: I love to work out and climb a mountain
 <!-- - 😄 Pronouns: ... -->
 
 
