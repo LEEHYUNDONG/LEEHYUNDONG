@@ -17,11 +17,11 @@
 
 <!-- ### 📓 Latest Blog posts -->
 <!-- BLOG-POST-LIST:START -->
-<!-- - [[TIL]CORS란?](https://velog.io/@easttwave/TILCORS%EB%9E%80)
+- [[TIL]CORS란?](https://velog.io/@easttwave/TILCORS%EB%9E%80)
 - [[Algorithm] 코테 intro](https://velog.io/@easttwave/Algorithm-%EC%8B%9C%EA%B0%84-%EB%B3%B5%EC%9E%A1%EB%8F%84)
 - [[TIL] websocket vs. RestAPI](https://velog.io/@easttwave/TIL-websocket-vs.-RestAPI)
 - [[Algorithm] Bit Mask](https://velog.io/@easttwave/Algorithm-Bit-Mask)
-- [[Network]Web server, App 정리](https://velog.io/@easttwave/NetworkWeb-server-App-%EC%A0%95%EB%A6%AC) -->
+- [[Network]Web server, App 정리](https://velog.io/@easttwave/NetworkWeb-server-App-%EC%A0%95%EB%A6%AC)
 <!-- BLOG-POST-LIST:END -->
 
 
