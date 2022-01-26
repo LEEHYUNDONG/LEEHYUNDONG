@@ -15,7 +15,7 @@
 
 ***
 
-### 📓 Latest Blog posts
+<!-- ### 📓 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [[TIL]CORS란?](https://velog.io/@easttwave/TILCORS%EB%9E%80)
 - [[Algorithm] 코테 intro](https://velog.io/@easttwave/Algorithm-%EC%8B%9C%EA%B0%84-%EB%B3%B5%EC%9E%A1%EB%8F%84)
@@ -23,7 +23,7 @@
 - [[Algorithm] Bit Mask](https://velog.io/@easttwave/Algorithm-Bit-Mask)
 - [[Network]Web server, App 정리](https://velog.io/@easttwave/NetworkWeb-server-App-%EC%A0%95%EB%A6%AC)
 <!-- BLOG-POST-LIST:END -->
-
+ -->
 
 ***
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEEHYUNDONG&show_icons=true&theme=dracula&repo=github-readme-stats)
