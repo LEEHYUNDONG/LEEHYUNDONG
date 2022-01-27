@@ -15,7 +15,7 @@
 
 ***
 
-<!-- ### 📓 Latest Blog posts -->
+### 📓 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [[TIL]CORS란?](https://velog.io/@easttwave/TILCORS%EB%9E%80)
 - [[Algorithm] 코테 intro](https://velog.io/@easttwave/Algorithm-%EC%8B%9C%EA%B0%84-%EB%B3%B5%EC%9E%A1%EB%8F%84)
