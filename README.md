@@ -15,7 +15,7 @@
 
 <br><br>
 <div>
-<div align=left>
+<div align=left width=50%>
      
 ### 📓 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -28,7 +28,7 @@
 
 </div>
 
-<div align=right>
+<div align=right width=50%>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEEHYUNDONG&show_icons=true&theme=dracula&repo=github-readme-stats)
 ](https://github.com/anuraghazra/github-readme-stats)
