@@ -14,6 +14,7 @@
 <!-- - 😄 Pronouns: ... -->
 
 <br><br>
+<div>
 <div align=left>
      
 ### 📓 Latest Blog posts
@@ -32,4 +33,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEEHYUNDONG&show_icons=true&theme=dracula&repo=github-readme-stats)
 ](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
 </div>
