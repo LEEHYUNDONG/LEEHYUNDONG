@@ -14,7 +14,8 @@
 <!-- - 😄 Pronouns: ... -->
 
 <br><br>
-
+<div align=left>
+     
 ### 📓 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [[TIL]CORS란?](https://velog.io/@easttwave/TILCORS%EB%9E%80)
@@ -24,10 +25,11 @@
 - [[Network]Web server, App 정리](https://velog.io/@easttwave/NetworkWeb-server-App-%EC%A0%95%EB%A6%AC)
 <!-- BLOG-POST-LIST:END -->
 
-<br><br>
+</div>
 
+<div align=right>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEEHYUNDONG&show_icons=true&theme=dracula&repo=github-readme-stats)
 ](https://github.com/anuraghazra/github-readme-stats)
 
-
+</div>
