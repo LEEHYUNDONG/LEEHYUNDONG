@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I love to work out and climb a mountain
 <!-- - 😄 Pronouns: ... -->
 
-***
+<br><br>
 
 ### 📓 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -24,6 +24,7 @@
 - [[Network]Web server, App 정리](https://velog.io/@easttwave/NetworkWeb-server-App-%EC%A0%95%EB%A6%AC)
 <!-- BLOG-POST-LIST:END -->
 
+<br><br>
 
 ***
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEEHYUNDONG&show_icons=true&theme=dracula&repo=github-readme-stats)
