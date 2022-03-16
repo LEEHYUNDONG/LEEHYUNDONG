@@ -14,8 +14,8 @@
 <!-- - 😄 Pronouns: ... -->
 
 <br><br>
+
 <div>
-<div align=left width=50%>
      
 ### 📓 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -26,12 +26,8 @@
 - [[Network]Web server, App 정리](https://velog.io/@easttwave/NetworkWeb-server-App-%EC%A0%95%EB%A6%AC)
 <!-- BLOG-POST-LIST:END -->
 
-</div>
-
-<div align=right width=50%>
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEEHYUNDONG&show_icons=true&theme=dracula&repo=github-readme-stats)
 ](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
+
 </div>
